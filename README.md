@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'sumalka kodithuwakku! 👋
 
-<!--
-**sum-kodithuwakku/sum-kodithuwakku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and constantly learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I'm currently working on improving my coding skills
+- 🌱 I'm learning and exploring new technologies
+- 👯 I'm looking to collaborate on interesting projects
+- 💬 Ask me about my coding journey
+- ⚡ Fun fact: I'm on GitHub! (you already know that 😄)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Skills & Technologies
+<!-- Add your skills here with badges -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sum-kodithuwakku&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sum-kodithuwakku&layout=compact)
+
+## 📫 Connect With Me
+<!-- Add your social media links here -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sum-kodithuwakku)
+
+<!-- Add more as you create them:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 -->
+
+---
+
+⭐️ From [sum-kodithuwakku](https://github.com/sum-kodithuwakku)
