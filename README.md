@@ -17,20 +17,5 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sum-kodithuwakku&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sum-kodithuwakku&layout=compact)
-
-## 📫 Connect With Me
-<!-- Add your social media links here -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sum-kodithuwakku)
-
-<!-- Add more as you create them:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
--->
-
----
 
 ⭐️ From [sum-kodithuwakku](https://github.com/sum-kodithuwakku)
